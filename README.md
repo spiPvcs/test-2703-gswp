@@ -100,3 +100,5 @@ export const client = new GraphQLClientFactory(process.env.backendUrl, {
 }).create();
 ```
 ## Testing non multi branch
+
+## Testing Sync
